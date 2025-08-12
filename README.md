@@ -38,7 +38,7 @@ Such insights are invaluable for coaches, analysts, commentators, and cricket en
 
 Clone this repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Ada-nawaz/Cricket-Analysis.git
 
 Install required libraries:
 
